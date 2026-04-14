@@ -1,0 +1,1 @@
+print("Run: streamlit run ui/app.py")
